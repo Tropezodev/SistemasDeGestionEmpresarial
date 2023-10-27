@@ -1,1 +1,1 @@
-# Git_Sistemas_de_Gestion_Empresarial
+DAM: Repositorio de los proyectos realizados en la asignatura de Sistemas de Gestión Empresarial de 2º DAM Cesur (2023).
